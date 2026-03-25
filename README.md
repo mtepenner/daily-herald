@@ -1,4 +1,4 @@
-# 📰 Postgrad Herald
+# 📰 Daily Herald
 
 Postgrad Herald is an automated editorial system that transforms real-time news data into a high-prestige, vintage-style digital newspaper. By leveraging the **OpenAI GPT-4o** model, the system adopts the persona of a Pulitzer Prize-winning journalist to rewrite top headlines into formal news stories, which are then rendered into a classic HTML "Daily Herald" layout.
 
